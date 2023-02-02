@@ -46,7 +46,7 @@
 
 <p align="center">
 <a href="https://www.olayinkaajibabi.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-olayinkaajibabi.tech-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/olayinka-ajibabi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/olayinka-ajibabi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Olayinka%20Ajibabi%-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/yinkaamac/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yinkaamac-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:olayinka.ajibabi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-olayinka.ajibabi@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
